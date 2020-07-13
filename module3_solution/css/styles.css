@@ -1,0 +1,53 @@
+body {
+	box-sizing: border-box;
+	
+}
+#heading h1{
+	font-weight: bolder;
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+.navbar-brand a{
+	color: white;
+	font-weight: bold;
+	font-size: 1.2em;
+}
+.holders {
+	margin-bottom: 50px;
+}
+#header-nav {
+  background-color: grey;
+  border-radius: 0;
+  border: 0;
+  padding: 5px;
+}
+#nav-list > li {
+	background-color: white;
+    text-align: center;
+    color: black;
+    border: 1px solid black;
+}
+#nav-list a{
+	color: black;
+	font-weight: bold;
+	font-style: italic;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: white;
+}
+
+#maincontainer h3,p{
+	font-size: 1.2em;
+}
+#section1{
+	background: #3498DB;
+	padding: 20px;
+}
+#section2{
+	background: #58D68D;
+	padding: 20px;
+}
+#section3{
+	background: #EB984E ;
+	padding: 20px;
+}
